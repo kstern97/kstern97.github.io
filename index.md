@@ -1,8 +1,8 @@
 
-  # My CIT Portfolio
+# My CIT Portfolio
   ![Photo](images/photo.jpg)
 
-  ## Projects:
+## Projects:
 
   1. CIS 110
   * [Projects](http://pages.uoregon.edu/kstern/110/)
