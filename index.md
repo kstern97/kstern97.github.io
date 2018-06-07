@@ -1,6 +1,6 @@
 
   # My CIT Projects
-  ![Photo](https://www.pexels.com/photo/full-frame-shot-of-abstract-pattern-249798/)
+  ![Photo](images/photo.jpg)
   ## CIS 110
 
     * [Projects](http://pages.uoregon.edu/kstern/110/)
