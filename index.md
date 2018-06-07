@@ -22,9 +22,3 @@
   * [Project Four](https://github.com/UO-CIT/project-4-kstern97)
 
   * [Project Five](https://github.com/UO-CIT/project-5-kstern97)
-
-  * CIT 381
-
-  * CIT 382
-
-  * CIT 383
