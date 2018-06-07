@@ -1,13 +1,10 @@
 
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>Hello, World</title>
-</head>
-<body>
-  <h2>Hello, World!</h2>
-
-</body>
-</html>
+  # My CIT Projects
+  ## CIS 110
+  ## CIS 111
+  ## CIT 281
+    * [Project One](https://github.com/UO-CIT/project-1-kstern97)
+    * [Project Two](https://github.com/UO-CIT/project-2-kstern97)
+    * [Project Three](https://github.com/UO-CIT/project-3-kstern97)
+    * [Project Four](https://github.com/UO-CIT/project-4-kstern97)
+    * [Project Five](https://github.com/UO-CIT/project-5-kstern97)
